@@ -10,10 +10,13 @@
 ![Physical Design](https://img.shields.io/badge/Physical_Design-228B22?style=for-the-badge)
 ![STA](https://img.shields.io/badge/STA-800080?style=for-the-badge)
 
-🎓 M.Tech VLSI Design @ Amrita Vishwa Vidyapeetham (2025–2027)  
-🔭 Focused on DFT, Physical Design, and Static Timing Analysis  
-🌱 Currently exploring advanced scan insertion, ATPG, and RTL-to-GDSII flows  
-💼 Seeking DFT / Physical Design Engineer roles in the semiconductor industry  
+🎓 M.Tech VLSI Design student at Amrita Vishwa Vidyapeetham (2025–2027)
+
+🔍 Interested in Design for Test (DFT), Physical Design, Static Timing Analysis (STA), and ASIC Verification.
+
+🛠️ Hands-on experience with RTL design, scan insertion, ATPG, FPGA implementation, and RTL-to-GDSII flows using Synopsys and open-source EDA tools.
+
+🎯 Seeking internship and full-time opportunities in DFT, Physical Design, and ASIC Verification.
 
 ---
 
