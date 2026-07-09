@@ -22,11 +22,39 @@
 
 ## 🛠️ Technical Skills
 
-**HDL:** Verilog, SystemVerilog  
-**Programming:** C, C++, Python  
-**EDA Tools:** Synopsys DC, VCS, PrimeTime, ICC2, Xilinx Vivado, Silvaco ATLAS, TestMAX  
-**Open-Source:** Qflow, Yosys, Magic, OpenSTA, Netgen  
-**Concepts:** RTL Design, Physical Design (RTL-to-GDSII), STA, DFT/ATPG, Functional Verification, FPGA  
+**HDL**
+- Verilog
+- SystemVerilog
+
+**Programming**
+- Python
+- C
+- C++
+
+**EDA Tools**
+- Synopsys Design Compiler
+- Synopsys VCS
+- Synopsys PrimeTime
+- Synopsys ICC2
+- Synopsys TestMAX
+- Xilinx Vivado
+- Silvaco ATLAS
+
+**Open-Source Tools**
+- Yosys
+- Qflow
+- OpenSTA
+- Magic
+- Netgen
+
+**Core Areas**
+- Design for Test (DFT)
+- ATPG
+- RTL Design
+- Physical Design (RTL-to-GDSII)
+- Static Timing Analysis (STA)
+- Functional Verification
+- FPGA Design 
 
 ---
 
