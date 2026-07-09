@@ -1,5 +1,7 @@
 # Hi there, I'm Aakaanksh 👋
 
+![Verilog](https://img.shields.io/badge/Verilog-blue) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-orange) ![Python](https://img.shields.io/badge/Python-yellow) ![Linux](https://img.shields.io/badge/Linux-black)
+
 🎓 M.Tech VLSI Design @ Amrita Vishwa Vidyapeetham (2025–2027)  
 🔭 Focused on DFT, Physical Design, and Static Timing Analysis  
 🌱 Currently exploring advanced scan insertion, ATPG, and RTL-to-GDSII flows  
