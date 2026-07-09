@@ -1,6 +1,15 @@
 # Hi there, I'm Aakaanksh 👋
 
-![Verilog](https://img.shields.io/badge/Verilog-blue) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-orange) ![Python](https://img.shields.io/badge/Python-yellow) ![Linux](https://img.shields.io/badge/Linux-black)
+![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF6F00?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![DFT](https://img.shields.io/badge/Design_for_Test-0066CC?style=for-the-badge)
+![Physical%20Design](https://img.shields.io/badge/Physical_Design-228B22?style=for-the-badge)
+![STA](https://img.shields.io/badge/Static_Timing_Analysis-800080?style=for-the-badge)
+![FPGA](https://img.shields.io/badge/FPGA-00979D?style=for-the-badge)
 
 🎓 M.Tech VLSI Design @ Amrita Vishwa Vidyapeetham (2025–2027)  
 🔭 Focused on DFT, Physical Design, and Static Timing Analysis  
